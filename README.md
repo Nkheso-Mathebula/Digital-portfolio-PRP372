@@ -74,7 +74,7 @@ I scored 100% on the assessment, which confirmed my understanding of personality
 ### Evidence
 ![CREATE A CV PP](https://github.com/Nkheso-Mathebula/Digital-portfolio-PRP372/blob/main/Create%20a%20CV.png)
 
-📥 [Download My CV (PDF)](https://github.com/Nkheso-Mathebula/Digital-portfolio-PRP372/raw/main/Nkheso%20MathebulaCV.pdf)
+📥 [Download My CV (PDF)](https://github.com/Nkheso-Mathebula/Digital-portfolio-PRP372/blob/main/Nkheso%20MathebulaCV.pdf)
 
 ### Reflection (STAR Technique)
 
